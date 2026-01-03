@@ -52,18 +52,6 @@ I am the founder of **Seranova Tarım Turizm Enerji Gıda Reklam Sanayi ve Ticar
 
 ---
 
-### 📊 GitHub & Coding Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Berkcnspl&show_icons=true&theme=radical" alt="Berkcan's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berkcnspl&layout=compact&theme=radical" alt="Top Langs" height="180" />
-</p>
-
-> **LeetCode Status:**
-> [![LeetCode Stats](https://leetcard.jacoblin.cool/Berkcnspl?theme=radical)](https://leetcode.com/Berkcnspl)
-
----
-
 ### 📂 Featured Projects
 
 * **🌱 Seranova Hidroponik Otomasyon Sistemi:** Intelligent climate and nutrient control for soil-less agriculture.
